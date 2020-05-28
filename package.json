@@ -3,12 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@splunk/dashboard-context": "^16.0.0",
+    "@splunk/dashboard-core": "^16.0.0",
+    "@splunk/dashboard-presets": "^16.0.0",
+    "@splunk/react-ui": "^2.17.0",
+    "@splunk/react-visualizations": "^18.0.0",
+    "@splunk/themes": "^0.5.0",
+    "@splunk/visualization-color-palettes": "^18.0.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
